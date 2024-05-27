@@ -1,0 +1,73 @@
+.centro{
+
+    position: relative;
+    left: 600px;
+    text-align: justify;
+    
+}
+
+.body{
+
+    background-color:rgb(230, 242, 255);
+}
+
+.caixa{
+
+    padding: 2px 10px 5px;
+    background-color: rgb(247, 255, 236);
+    border: none;
+    border-radius: 40px;
+}
+
+.caixa2{
+
+    padding: 2px 10px 5px;
+    background-color: rgb(247, 255, 236);
+    border: none;
+    border-radius: 10px; 
+}
+
+.titulo{
+
+    position: relative;
+    left: 30px;
+    font-size: 50px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    background-image: linear-gradient(to bottom, rgb(0, 255, 13), rgb(0, 102, 255),rgb(255, 238, 0));
+
+  background-clip: text;
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  color: rgb(0, 0, 0);
+}
+
+.divTexto{
+
+    background-color: rgb(193, 224, 253);
+}
+
+.fonte{
+
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.send{
+
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: medium;
+    height: 50px;
+    width: 100px;
+    padding: 2px 10px 5px;
+    background-color: rgb(142, 167, 199);
+    border: none;
+    border-radius: 10px; 
+}
+
+.divForm{
+    
+    text-align: center;
+    background-color: rgba(127, 255, 212, 0.301);
+    width: 410px;
+    height: 730px;
+    border-radius: 20px;
+}
